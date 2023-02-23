@@ -4,4 +4,4 @@ project(labs C)
 set(CMAKE_C_STANDARD 17)
 
 
-add_executable(lab1 labs/lab1/Soure.c labs/lab1/fun.c labs/lab1/fun.h)
+add_executable(lab1 labs/lab1/Source.c labs/lab1/fun.c labs/lab1/fun.h)
